@@ -19,6 +19,7 @@ I enjoy working with real-world datasets, extracting insights, and building data
 - Python
 - SQL
 - R (Basic)
+- C
 
 ### Data Analysis & Machine Learning
 - NumPy
